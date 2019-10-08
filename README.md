@@ -1,6 +1,6 @@
-# Project Title
+# Portfolio homework assignment
 
-One Paragraph of project description goes here
+This is my fist homework assignment. It is the culmination of what we have learned in the first week. Here I will demonstraight the use of Html, css, and github repository use. Wish me luck!
 
 ## Getting Started
 
