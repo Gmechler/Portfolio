@@ -15,12 +15,7 @@
      background-image: url(../images/floor-tile.png);
      height: 100%;
      position: relative; 
-
-
-
  }
-
-
 
 header {    
     border-bottom: 3px;
@@ -148,7 +143,7 @@ footer {
     
 }
 footer p {
-    padding-top: 48px;
+    padding-top: 30px;
     padding-bottom: 0;
     margin: 0;
     text-align: center;
