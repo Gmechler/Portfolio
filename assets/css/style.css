@@ -86,7 +86,7 @@ a:hover {
     color: #4aaaa5;
 }
 
-/* container margin-right doesnt respond*/
+/* aranges the body of the page into the center and sets the boarder*/
 .contentContainer {
     float: center;
     width: 960px;
@@ -98,7 +98,7 @@ a:hover {
     border: 2px solid #dddddd;
    
 } 
-
+/* styls the heading within the body*/
 #subHead {
     border-bottom: 3px solid #dddddd;
     margin-right: 30px;
@@ -107,7 +107,9 @@ a:hover {
 
 .page_content {
     padding: 30px;
+    position: relative;
 }
+
 #bio_pic {
     height: 250px;
     width: 250px;
@@ -119,7 +121,7 @@ p {
     font-size: 18;
     line-height: 20px;
 }
- /* <sticky footer>*/
+ /* <sticky footer> dont touch it! it works*/
  html,
  body {
      height: 100%;
@@ -145,7 +147,7 @@ footer {
 footer p {
     padding-top: 30px;
     padding-bottom: 0;
-    margin: 0;
+    margin: 3px;
     text-align: center;
     float: center;
 }

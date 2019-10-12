@@ -1,9 +1,27 @@
-img {
-    height: 100px;
-    width: 100px;
-    float: center;
-}
+
 
 .container {
-    float: center;
-}
+    position: relative;
+    width: 50%;
+  }
+  
+  .image {
+    display: block;
+    height: auto;
+    clear: both;
+    
+
+  }
+  
+
+  
+  .text {
+    color: red;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    background-color: #4aaaa5;
+
+  }
+
+
