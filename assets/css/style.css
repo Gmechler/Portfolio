@@ -7,7 +7,7 @@
 	box-sizing: border-box; 
 }
 
- h1, h2 { 
+ h1, h2, input { 
      font-family: 'Georgia', Times, 'Times New Roman', serif;
  }
  body {
@@ -120,6 +120,7 @@ a:hover {
 p {
     font-size: 18;
     line-height: 20px;
+    margin-top: 0;
 }
  /* <sticky footer> dont touch it! it works*/
  html,
@@ -147,7 +148,7 @@ footer {
 footer p {
     padding-top: 30px;
     padding-bottom: 0;
-    margin: 3px;
+    margin: 18px;
     text-align: center;
     float: center;
 }
